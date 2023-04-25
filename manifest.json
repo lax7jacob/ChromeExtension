@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Word Count",
   "version": "1.0",
   "description": "Display the word count on a specific page",
